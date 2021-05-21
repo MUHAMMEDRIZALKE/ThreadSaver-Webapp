@@ -14,7 +14,7 @@ body{
 }
 
 #main-header{
-	background-color:#00ced1;
+	background-color:#3bc8fe;
 	color:#fff;
 }
 
@@ -89,12 +89,20 @@ a:active{
 	box-sizing: border-box;
 }
 
+#main a{
+    color:#3bc8fe;
+}
+
 #main-footer{
 	background: #333;
 	color:#fff;
 	text-align: center;
 	padding:10px;
 	margin-top:70px;
+}
+
+#main-footer a{
+    color:#3bc8fe;
 }
 
 @media(max-width:600px){
